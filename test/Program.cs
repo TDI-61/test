@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             //test
             Console.WriteLine();
+            // Hallo lieber Thomas
         }
     }
 }
